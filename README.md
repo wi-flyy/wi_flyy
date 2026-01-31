@@ -15,3 +15,6 @@ I actively participate in competitions and mentoring programs, where I sharpen m
 ![Nmap](https://img.shields.io/badge/Nmap-00457C?style=for-the-badge)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2A2A2A?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
