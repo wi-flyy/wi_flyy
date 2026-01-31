@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Wissam Ferdj
-I’m a Second-Year computer science engineering student at **USTHB** with a strong passion for **cybersecurity and Front End Devlopment** and also **UI/UX design**, I actively participate in competitions and mentoring programs, where I sharpen my technical skills, problem-solving abilities, and teamwork mindset.
+I’m a 2nd-Year computer science engineering student at **USTHB** with a strong passion for **cybersecurity and Front End Devlopment** and also **UI/UX design**, I actively participate in competitions and mentoring programs, where I sharpen my technical skills, problem-solving abilities, and teamwork mindset.
 
 ### 💻 Technical Skills and Languages
 
