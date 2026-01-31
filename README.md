@@ -18,3 +18,14 @@ I actively participate in competitions and mentoring programs, where I sharpen m
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+
+## 🛠️ Currently Learning
+- Advanced **cybersecurity Concepts & Red Teaming **.
+- Network security & protocol analysis.
+- **Front End Track** using **React.js** and **Tailwind CSS**.
+- Practicing **UI/UX design** principles through wireframing and prototyping with **Figma**.
+
+  ## 📫 Contact Me
+- 📧 Email: wissamferdj2@gmail.com
+
+
