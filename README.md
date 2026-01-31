@@ -1,6 +1,5 @@
 # 👋 Hi, I'm Wissam Ferdj
-I’m a Second-Year computer science engineering student at **USTHB** with a strong passion for **cybersecurity and Front End Devlopment** and also **UI/UX design**   
-I actively participate in competitions and mentoring programs, where I sharpen my technical skills, problem-solving abilities, and teamwork mindset.
+I’m a Second-Year computer science engineering student at **USTHB** with a strong passion for **cybersecurity and Front End Devlopment** and also **UI/UX design**, I actively participate in competitions and mentoring programs, where I sharpen my technical skills, problem-solving abilities, and teamwork mindset.
 
 ### 💻 Technical Skills and Languages
 
@@ -19,13 +18,15 @@ I actively participate in competitions and mentoring programs, where I sharpen m
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
-## 🛠️ Currently Learning
+### 🛠️ Currently Learning
+
 - Advanced **cybersecurity Concepts & Red Teaming **.
 - Network security & protocol analysis.
 - **Front End Track** using **React.js** and **Tailwind CSS**.
 - Practicing **UI/UX design** principles through wireframing and prototyping with **Figma**.
 
-  ## 📫 Contact Me
+### 📫 Contact Me
+
 - 📧 Email: wissamferdj2@gmail.com
 
 
