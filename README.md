@@ -20,7 +20,7 @@ I’m a Second-Year computer science engineering student at **USTHB** with a str
 
 ### 🛠️ Currently Learning
 
-- Advanced **cybersecurity Concepts & Red Teaming **.
+- Advanced **cybersecurity Concepts & Red Teaming**.
 - Network security & protocol analysis.
 - **Front End Track** using **React.js** and **Tailwind CSS**.
 - Practicing **UI/UX design** principles through wireframing and prototyping with **Figma**.
