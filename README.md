@@ -17,6 +17,8 @@ I’m a 2nd-Year computer science engineering student at **USTHB** with a strong
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+
 
 ### 🛠️ Currently Learning
 
